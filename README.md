@@ -47,3 +47,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+## 🌟 About Me
+
+Hi there! I'm **Mahmoud Ibrahim Mostafa**, a **Computer and Control Engineering student at Suez Canal University** and a passionate **data enthusiast** who enjoys exploring, analyzing, and working with data.
+
